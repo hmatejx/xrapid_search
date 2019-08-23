@@ -3,9 +3,8 @@
 Hunt for xRapid-like transactions out in the wild!
 
 If you'd like to express your support:
-![](img/xrptipbot.png)
 
-```rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv 71673368```
+![](img/xrptipbot.png) or ```rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv 71673368```
 
 
 ## Install
