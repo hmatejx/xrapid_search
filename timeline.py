@@ -1,7 +1,7 @@
 from datetime import datetime
 from dateutil.tz import tzutc
 import matplotlib
-matplotlib.use('GTK3Cairo')
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.dates as mdates
