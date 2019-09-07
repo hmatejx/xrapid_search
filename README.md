@@ -134,5 +134,4 @@ TIme                 Timestamp  LedgerIndex  Account                            
 2019-09-07 03:36:20  621149780  49866758     rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv  rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy  1208977612  60000           94651         Bitstamp->Bittrex   Bitstamp  Bittrex
 2019-09-07 03:26:50  621149210  49866612     rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA  rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv  48170618    45              17757.569955  Coins.ph->Bitstamp  Coins.ph  Bitstamp
 2019-09-07 02:24:42  621145482  49865656     rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy  rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA  130150      12              375           Bittrex->Coins.ph   Bittrex   Coins.ph
-matej@LxLe-develop:~/devel/xrapid_search/dashboard$ 
 ```
