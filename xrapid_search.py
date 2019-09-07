@@ -2,18 +2,17 @@
 
 '''
 Usage:
-  xrapid_search.py [-t time] [-p] [(-s|-l)]
+  xrapid_search.py [-t time] [-p] [-l]
   xrapid_search.py -h | --help
   xrapid_search.py -v | --version
 
 Options:
   -t time       Historical time period [default: 24].
-                Valid values:
+                Valid settings for time are:
                   1 - 1 hour
                   24 - 24 hours
   -p            Plot the results in a chart.
-  -s            Save results (xRapid.pickle).
-  -l            Load results (xRapid.pickle)
+  -l            Load results (xRapid.pickle), implies -p.
   -v --version  Display version and exit.
   -h --help     Show this screen.
 '''
@@ -60,13 +59,12 @@ if __name__ == '__main__':
         xRapid = getMatch(res1, res2, res3)
         Print(xRapid)
         # Save results
-        if arguments.get('-s'):
-            pickle.dump(xRapid, open('xRapid.pickle', 'wb'))
+        pickle.dump(xRapid, open('xRapid.pickle', 'wb'))
 
     else:
         # Load results from previous save
         xRapid = pickle.load(open('xRapid.pickle', 'rb'))
 
     # visualize the timeline
-    if arguments.get('-p'):
+    if arguments.get('-p') or arguments.get('-l'):
         plotTimeline(xRapid)
