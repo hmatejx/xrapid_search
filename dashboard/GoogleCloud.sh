@@ -12,7 +12,7 @@ echo "1.) Executing the xRapid search query on Google BigQuery..."
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 bq query --nouse_legacy_sql --destination_table ${DATASET}.${TABLE} --replace --headless --format=none \
 'SELECT
-  CloseTime AS TIme, CloseTimeTimestamp AS Timestamp, LedgerIndex, Account, Destination, SourceTag, DestinationTag, Fee, Amount,
+  CloseTime AS Time, CloseTimeTimestamp AS Timestamp, LedgerIndex, Account, Destination, SourceTag, DestinationTag, Fee, Amount,
   CONCAT(xSource, "->", xDestination) AS xLeg, xSource, xDestination FROM
 (WITH
   Ledgers AS (

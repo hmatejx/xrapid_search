@@ -124,7 +124,7 @@ Operation completed over 1 objects/4.5 MiB.
 The resulting data set has the following structure:
 ```
 $ head InterExchange.csv | column -t -s,
-TIme                 Timestamp  LedgerIndex  Account                             Destination                         SourceTag   DestinationTag  Fee           Amount              xLeg      xSource   xDestination
+Time                 Timestamp  LedgerIndex  Account                             Destination                         SourceTag   DestinationTag  Fee           Amount              xLeg      xSource   xDestination
 2019-09-07 09:25:21  621170721  49872164     rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv  rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy  653337620   60000           741458        Bitstamp->Bittrex   Bitstamp  Bittrex
 2019-09-07 09:06:21  621169581  49871867     rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy  rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA  113326      12              44.002406     Bittrex->Coins.ph   Bittrex   Coins.ph
 2019-09-07 07:16:51  621163011  49870174     rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA  rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv  32618391    45              113.616       Coins.ph->Bitstamp  Coins.ph  Bitstamp
