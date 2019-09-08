@@ -1,6 +1,6 @@
 python-ripple-lib>=1.0.5
 bitso-py>=3.0.1
-git+git://github.com/hmatejx/bitstamp-python-client.git#6ca18c2
+git+git://github.com/kmadac/bitstamp-python-client.git#a0b090f
 docopt>=0.6.2
 numpy>=1.17.0
 matplotlib>=2.2.2
