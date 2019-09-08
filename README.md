@@ -9,7 +9,7 @@ If you'd like to express your support:
 
 ## Install
 
-Make sure you have installed the pip packages: `python-ripple-lib`, `bitso-py`, `docopt`, `numpy`, `matplotlib`, and [this modified version](https://github.com/hmatejx/bitstamp-python-client) of `BitstampClient`.
+Make sure you have installed the pip packages: `python-ripple-lib`, `bitso-py`, `docopt`, `numpy`, `matplotlib`, and [this modified version](https://github.com/hmatejx/bitstamp-python-client) or the [latest official version](https://github.com/kmadac/bitstamp-python-client) of `BitstampClient`.
 
 Alternatively, you can set up a project-specific virtual environment as shown below.
 
