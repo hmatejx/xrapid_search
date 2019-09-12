@@ -4,3 +4,5 @@ git+git://github.com/kmadac/bitstamp-python-client.git#a0b090f
 docopt>=0.6.2
 numpy>=1.17.0
 matplotlib>=2.2.2
+pandas>=0.24.2
+cryptowatch-client>=0.1.4

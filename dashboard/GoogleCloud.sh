@@ -66,3 +66,10 @@ echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 gsutil -m cp -r gs://${GCSBUCKET}/InterExchange.csv.gz .
 gunzip -f ${TABLE}.csv.gz
 echo
+
+# add USD valuation
+echo
+echo "4.) Adding USD valuation..."
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+./valuation.py
+echo
