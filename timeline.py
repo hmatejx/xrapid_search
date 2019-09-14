@@ -8,6 +8,12 @@ import matplotlib.dates as mdates
 
 
 def plotTimeline(xRapid):
+
+    # Check if received empty list
+    if not len(xRapid):
+        print('No data to plot')
+        return
+
     # Source exchange
     res1 = [x[0] for x in xRapid]
     d1 = [tr['dt'] for tr in res1]
