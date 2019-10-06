@@ -1,0 +1,220 @@
+Getting trade history from Bitstamp...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++ 1367 buy transactions in last 24 hours
+- 1524 sell transactions in last 24 hours
+
+Getting XRP ledger payments from Bitstamp to Bitso...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+x 90 payment transactions in last 24 hours
+
+Getting trade history from Bitso...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++ 376 buy transactions in last 24 hours
+- 224 sell transactions in last 24 hours
+
+Searching...
+~~~~~~~~~~~~
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28541.82 XRP      7201 USD  at  2019-10-05T10:06:57
+ 2.  ➝ XRPL ➝	25370527    28541.80 XRP                at  2019-10-05T10:07:21  (Δt = 24.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28541.79 XRP    139855 MXN  at  2019-10-05T10:08:19  (Δt = 58.0, ΔA = -0.01)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28541.82 XRP      7201 USD  at  2019-10-05T10:28:58
+ 2.  ➝ XRPL ➝	25370527    28541.80 XRP                at  2019-10-05T10:29:51  (Δt = 53.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28541.79 XRP    139855 MXN  at  2019-10-05T10:30:53  (Δt = 62.0, ΔA = -0.01)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28483.31 XRP      7208 USD  at  2019-10-05T11:02:58
+ 2.  ➝ XRPL ➝	25370527    28483.29 XRP                at  2019-10-05T11:03:50  (Δt = 52.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28425.77 XRP    139855 MXN  at  2019-10-05T11:04:12  (Δt = 22.0, ΔA = -57.52)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28541.81 XRP      7209 USD  at  2019-10-05T11:20:57
+ 2.  ➝ XRPL ➝	25370527    28541.79 XRP                at  2019-10-05T11:21:10  (Δt = 13.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28483.66 XRP    139855 MXN  at  2019-10-05T11:21:27  (Δt = 17.0, ΔA = -58.13)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28587.74 XRP      7217 USD  at  2019-10-05T11:32:56
+ 2.  ➝ XRPL ➝	25370527    28587.72 XRP                at  2019-10-05T11:33:30  (Δt = 34.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28600.16 XRP    139855 MXN  at  2019-10-05T11:33:47  (Δt = 17.0, ΔA = 12.43)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28541.79 XRP      7203 USD  at  2019-10-05T11:58:57
+ 2.  ➝ XRPL ➝	25370527    28541.77 XRP                at  2019-10-05T11:59:21  (Δt = 24.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28541.79 XRP    139855 MXN  at  2019-10-05T11:59:38  (Δt = 17.0, ΔA = 0.02)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28608.21 XRP      7181 USD  at  2019-10-05T13:27:59
+ 2.  ➝ XRPL ➝	25370527    28608.19 XRP                at  2019-10-05T13:28:30  (Δt = 31.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28600.16 XRP    139855 MXN  at  2019-10-05T13:29:25  (Δt = 55.0, ΔA = -8.03)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28600.17 XRP      7194 USD  at  2019-10-05T13:43:58
+ 2.  ➝ XRPL ➝	25370527    28600.15 XRP                at  2019-10-05T13:44:11  (Δt = 13.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28600.16 XRP    139855 MXN  at  2019-10-05T13:44:28  (Δt = 17.0, ΔA = 0.01)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28444.90 XRP      7206 USD  at  2019-10-05T14:11:58
+ 2.  ➝ XRPL ➝	25370527    28444.88 XRP                at  2019-10-05T14:12:12  (Δt = 14.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28425.77 XRP    139855 MXN  at  2019-10-05T14:13:11  (Δt = 59.0, ΔA = -19.11)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28365.64 XRP      7205 USD  at  2019-10-05T14:20:59
+ 2.  ➝ XRPL ➝	25370527    28365.62 XRP                at  2019-10-05T14:21:51  (Δt = 52.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      27841.26 XRP    137257 MXN  at  2019-10-05T14:22:54  (Δt = 63.0, ΔA = -524.37)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28213.73 XRP      7206 USD  at  2019-10-05T14:41:57
+ 2.  ➝ XRPL ➝	25370527    28213.71 XRP                at  2019-10-05T14:42:41  (Δt = 44.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28196.53 XRP    139855 MXN  at  2019-10-05T14:43:41  (Δt = 60.0, ΔA = -17.19)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28368.18 XRP      7200 USD  at  2019-10-05T15:08:00
+ 2.  ➝ XRPL ➝	25370527    28368.16 XRP                at  2019-10-05T15:08:31  (Δt = 31.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28368.11 XRP    139855 MXN  at  2019-10-05T15:09:33  (Δt = 62.0, ΔA = -0.05)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28310.70 XRP      7204 USD  at  2019-10-05T15:24:00
+ 2.  ➝ XRPL ➝	25370527    28310.68 XRP                at  2019-10-05T15:24:32  (Δt = 32.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28310.68 XRP    139855 MXN  at  2019-10-05T15:24:51  (Δt = 19.0, ΔA = 0.00)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28196.56 XRP      7200 USD  at  2019-10-05T15:38:58
+ 2.  ➝ XRPL ➝	25370527    28196.54 XRP                at  2019-10-05T15:39:40  (Δt = 42.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28196.53 XRP    139855 MXN  at  2019-10-05T15:39:59  (Δt = 19.0, ΔA = -0.02)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28146.40 XRP      7199 USD  at  2019-10-05T16:00:00
+ 2.  ➝ XRPL ➝	25370527    28146.38 XRP                at  2019-10-05T16:00:50  (Δt = 50.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28139.79 XRP    139855 MXN  at  2019-10-05T16:01:13  (Δt = 23.0, ΔA = -6.59)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28325.09 XRP      7196 USD  at  2019-10-05T16:19:58
+ 2.  ➝ XRPL ➝	25370527    28325.07 XRP                at  2019-10-05T16:20:20  (Δt = 22.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28368.11 XRP    139855 MXN  at  2019-10-05T16:20:38  (Δt = 18.0, ΔA = 43.03)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28302.76 XRP      7206 USD  at  2019-10-05T16:56:57
+ 2.  ➝ XRPL ➝	25370527    28302.74 XRP                at  2019-10-05T16:57:31  (Δt = 34.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28253.49 XRP    139855 MXN  at  2019-10-05T16:57:47  (Δt = 16.0, ΔA = -49.25)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28305.29 XRP      7179 USD  at  2019-10-05T17:38:00
+ 2.  ➝ XRPL ➝	25370527    28305.27 XRP                at  2019-10-05T17:38:30  (Δt = 30.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28327.01 XRP    139652 MXN  at  2019-10-05T17:39:33  (Δt = 63.0, ΔA = 21.74)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28425.18 XRP      7202 USD  at  2019-10-05T17:48:58
+ 2.  ➝ XRPL ➝	25370527    28425.16 XRP                at  2019-10-05T17:49:10  (Δt = 12.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28425.77 XRP    139855 MXN  at  2019-10-05T17:49:27  (Δt = 17.0, ΔA = 0.60)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28355.83 XRP      7194 USD  at  2019-10-05T18:00:59
+ 2.  ➝ XRPL ➝	25370527    28355.81 XRP                at  2019-10-05T18:01:21  (Δt = 22.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28368.11 XRP    139855 MXN  at  2019-10-05T18:01:39  (Δt = 18.0, ΔA = 12.30)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28310.69 XRP      7203 USD  at  2019-10-05T18:26:57
+ 2.  ➝ XRPL ➝	25370527    28310.67 XRP                at  2019-10-05T18:27:21  (Δt = 24.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28310.68 XRP    139855 MXN  at  2019-10-05T18:28:20  (Δt = 59.0, ΔA = 0.01)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28368.14 XRP      7199 USD  at  2019-10-05T18:51:57
+ 2.  ➝ XRPL ➝	25370527    28368.12 XRP                at  2019-10-05T18:52:32  (Δt = 35.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28425.77 XRP    139855 MXN  at  2019-10-05T18:52:58  (Δt = 26.0, ΔA = 57.64)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28425.81 XRP      7199 USD  at  2019-10-05T18:57:59
+ 2.  ➝ XRPL ➝	25370527    28425.79 XRP                at  2019-10-05T18:58:21  (Δt = 22.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28425.77 XRP    139855 MXN  at  2019-10-05T18:58:38  (Δt = 17.0, ΔA = -0.02)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28368.10 XRP      7209 USD  at  2019-10-05T19:12:57
+ 2.  ➝ XRPL ➝	25370527    28368.08 XRP                at  2019-10-05T19:13:30  (Δt = 33.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28310.68 XRP    139855 MXN  at  2019-10-05T19:13:48  (Δt = 18.0, ΔA = -57.40)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28309.38 XRP      7198 USD  at  2019-10-05T19:56:58
+ 2.  ➝ XRPL ➝	25370527    28309.36 XRP                at  2019-10-05T19:57:21  (Δt = 23.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      27644.18 XRP    136562 MXN  at  2019-10-05T19:57:41  (Δt = 20.0, ΔA = -665.18)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28564.61 XRP      7107 USD  at  2019-10-05T20:11:38
+ 2.  ➝ XRPL ➝	25370527    28882.01 XRP                at  2019-10-05T20:13:21  (Δt = 103.0, ΔA = 317.40)
+ 3.  Bitso	XRPMXN      27969.97 XRP    135375 MXN  at  2019-10-05T20:13:40  (Δt = 19.0, ΔA = -912.04)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28600.19 XRP      7194 USD  at  2019-10-05T20:38:58
+ 2.  ➝ XRPL ➝	25370527    28600.17 XRP                at  2019-10-05T20:39:31  (Δt = 33.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28600.16 XRP    139855 MXN  at  2019-10-05T20:40:31  (Δt = 60.0, ΔA = -0.01)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28488.37 XRP      7179 USD  at  2019-10-05T20:53:00
+ 2.  ➝ XRPL ➝	25370527    28588.79 XRP                at  2019-10-05T20:53:20  (Δt = 20.0, ΔA = 100.42)
+ 3.  Bitso	XRPMXN      28600.16 XRP    139855 MXN  at  2019-10-05T20:54:23  (Δt = 63.0, ΔA = 11.37)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28368.15 XRP      7197 USD  at  2019-10-05T22:21:57
+ 2.  ➝ XRPL ➝	25370527    28368.13 XRP                at  2019-10-05T22:22:20  (Δt = 23.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28368.11 XRP    139855 MXN  at  2019-10-05T22:22:37  (Δt = 17.0, ΔA = -0.02)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28310.74 XRP      7197 USD  at  2019-10-05T22:38:58
+ 2.  ➝ XRPL ➝	25370527    28310.72 XRP                at  2019-10-05T22:39:30  (Δt = 32.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28310.68 XRP    139855 MXN  at  2019-10-05T22:39:48  (Δt = 18.0, ΔA = -0.04)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28368.14 XRP      7199 USD  at  2019-10-05T23:09:58
+ 2.  ➝ XRPL ➝	25370527    28368.12 XRP                at  2019-10-05T23:10:20  (Δt = 22.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28368.11 XRP    139855 MXN  at  2019-10-05T23:10:38  (Δt = 18.0, ΔA = -0.02)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28439.18 XRP      7201 USD  at  2019-10-05T23:23:58
+ 2.  ➝ XRPL ➝	25370527    28439.16 XRP                at  2019-10-05T23:24:32  (Δt = 34.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28390.24 XRP    139680 MXN  at  2019-10-05T23:25:43  (Δt = 71.0, ΔA = -48.92)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28367.90 XRP      7200 USD  at  2019-10-05T23:37:00
+ 2.  ➝ XRPL ➝	25370527    28367.88 XRP                at  2019-10-05T23:37:40  (Δt = 40.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28316.42 XRP    139600 MXN  at  2019-10-05T23:38:34  (Δt = 54.0, ΔA = -51.46)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP       1012.62 XRP       257 USD  at  2019-10-06T00:02:47
+ 2.  ➝ XRPL ➝	25370527     1012.60 XRP                at  2019-10-06T00:03:30  (Δt = 43.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN       1014.71 XRP      5002 MXN  at  2019-10-06T00:04:31  (Δt = 61.0, ΔA = 2.10)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28368.14 XRP      7199 USD  at  2019-10-06T00:30:58
+ 2.  ➝ XRPL ➝	25370527    28368.12 XRP                at  2019-10-06T00:31:32  (Δt = 34.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28368.11 XRP    139855 MXN  at  2019-10-06T00:31:59  (Δt = 27.0, ΔA = -0.02)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28368.12 XRP      7201 USD  at  2019-10-06T00:59:59
+ 2.  ➝ XRPL ➝	25370527    28368.10 XRP                at  2019-10-06T01:00:22  (Δt = 23.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28165.27 XRP    138855 MXN  at  2019-10-06T01:01:22  (Δt = 60.0, ΔA = -202.83)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28425.79 XRP      7196 USD  at  2019-10-06T01:42:00
+ 2.  ➝ XRPL ➝	25370527    28425.77 XRP                at  2019-10-06T01:42:50  (Δt = 50.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28425.77 XRP    139855 MXN  at  2019-10-06T01:43:45  (Δt = 55.0, ΔA = -0.01)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28616.12 XRP      7208 USD  at  2019-10-06T02:18:01
+ 2.  ➝ XRPL ➝	25370527    28616.10 XRP                at  2019-10-06T02:18:20  (Δt = 19.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28497.91 XRP    139355 MXN  at  2019-10-06T02:19:13  (Δt = 53.0, ΔA = -118.19)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28541.81 XRP      7210 USD  at  2019-10-06T02:38:58
+ 2.  ➝ XRPL ➝	25370527    28541.79 XRP                at  2019-10-06T02:39:40  (Δt = 42.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28483.66 XRP    139855 MXN  at  2019-10-06T02:39:59  (Δt = 19.0, ΔA = -58.13)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28485.95 XRP      7207 USD  at  2019-10-06T02:51:03
+ 2.  ➝ XRPL ➝	25370527    28485.93 XRP                at  2019-10-06T02:51:20  (Δt = 17.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28483.66 XRP    139855 MXN  at  2019-10-06T02:51:42  (Δt = 22.0, ΔA = -2.27)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28425.59 XRP      7189 USD  at  2019-10-06T03:59:59
+ 2.  ➝ XRPL ➝	25370527    28425.57 XRP                at  2019-10-06T04:00:31  (Δt = 32.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28307.88 XRP    139275 MXN  at  2019-10-06T04:00:53  (Δt = 22.0, ΔA = -117.69)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28368.11 XRP      7194 USD  at  2019-10-06T04:46:58
+ 2.  ➝ XRPL ➝	25370527    28368.09 XRP                at  2019-10-06T04:47:10  (Δt = 12.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28310.68 XRP    139855 MXN  at  2019-10-06T04:47:27  (Δt = 17.0, ΔA = -57.41)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28255.71 XRP      7194 USD  at  2019-10-06T05:05:00
+ 2.  ➝ XRPL ➝	25370527    28255.69 XRP                at  2019-10-06T05:06:00  (Δt = 60.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      27163.36 XRP    134459 MXN  at  2019-10-06T05:06:55  (Δt = 55.0, ΔA = -1092.32)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28196.53 XRP      7201 USD  at  2019-10-06T05:42:01
+ 2.  ➝ XRPL ➝	25370527    28196.51 XRP                at  2019-10-06T05:42:32  (Δt = 31.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28253.49 XRP    139855 MXN  at  2019-10-06T05:43:36  (Δt = 64.0, ΔA = 56.98)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28310.72 XRP      7191 USD  at  2019-10-06T06:44:58
+ 2.  ➝ XRPL ➝	25370527    28310.70 XRP                at  2019-10-06T06:45:50  (Δt = 52.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28368.11 XRP    139855 MXN  at  2019-10-06T06:46:54  (Δt = 64.0, ΔA = 57.41)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28541.79 XRP      7206 USD  at  2019-10-06T06:58:00
+ 2.  ➝ XRPL ➝	25370527    28541.77 XRP                at  2019-10-06T06:58:20  (Δt = 20.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28541.79 XRP    139855 MXN  at  2019-10-06T06:59:24  (Δt = 64.0, ΔA = 0.02)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28425.83 XRP      7190 USD  at  2019-10-06T07:26:59
+ 2.  ➝ XRPL ➝	25370527    28425.81 XRP                at  2019-10-06T07:27:32  (Δt = 33.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28483.66 XRP    139855 MXN  at  2019-10-06T07:27:50  (Δt = 18.0, ΔA = 57.85)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28483.68 XRP      7202 USD  at  2019-10-06T07:41:00
+ 2.  ➝ XRPL ➝	25370527    28483.66 XRP                at  2019-10-06T07:41:21  (Δt = 21.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28483.66 XRP    139855 MXN  at  2019-10-06T07:42:23  (Δt = 62.0, ΔA = -0.01)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28413.43 XRP      7196 USD  at  2019-10-06T07:58:59
+ 2.  ➝ XRPL ➝	25370527    28413.41 XRP                at  2019-10-06T07:59:11  (Δt = 12.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28425.77 XRP    139855 MXN  at  2019-10-06T08:00:12  (Δt = 61.0, ΔA = 12.36)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28597.59 XRP      7210 USD  at  2019-10-06T08:13:02
+ 2.  ➝ XRPL ➝	25370527    28597.57 XRP                at  2019-10-06T08:13:42  (Δt = 40.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      27334.54 XRP    133666 MXN  at  2019-10-06T08:14:04  (Δt = 22.0, ΔA = -1263.03)
+xRAPID transaction!
+ 1.  Bitstamp	USDXRP      28600.18 XRP      7206 USD  at  2019-10-06T08:49:01
+ 2.  ➝ XRPL ➝	25370527    28600.16 XRP                at  2019-10-06T08:49:41  (Δt = 40.0, ΔA = -0.02)
+ 3.  Bitso	XRPMXN      28600.16 XRP    139855 MXN  at  2019-10-06T08:50:03  (Δt = 22.0, ΔA = -0.01)
