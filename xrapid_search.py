@@ -64,7 +64,8 @@ if __name__ == '__main__':
     else:
         # Load results from previous save
         xRapid = pickle.load(open('xRapid.pickle', 'rb'))
+        Print(xRapid)
 
     # visualize the timeline
-    if arguments.get('-p') or arguments.get('-l'):
+    if arguments.get('-p'):
         plotTimeline(xRapid)
