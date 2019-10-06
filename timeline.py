@@ -42,13 +42,13 @@ def plotTimeline(xRapid):
     for tick in ax.xaxis.get_major_ticks():
         tick.label.set_fontsize(8)
     l1 = np.tile([1, 0.75, 1, 0.75, 1, 0.75], int(np.ceil(len(d1)/6)))[:len(d1)]
-    markerline1, stemline1, baseline1 = ax.stem(d1, l1, linefmt="k-", basefmt=" ", use_line_collection=True)
+    markerline1, stemline1, baseline1 = ax.stem(d1, l1, linefmt="k-", basefmt=" ")
 
     l2 = np.tile([0, 0, 0, 0, 0, 0], int(np.ceil(len(d2)/6)))[:len(d2)]
-    markerline2, stemline2, baseline2 = ax.stem(d2, l2, linefmt="C3-", basefmt=" ", use_line_collection=True)
+    markerline2, stemline2, baseline2 = ax.stem(d2, l2, linefmt="C3-", basefmt=" ")
 
     l3 = np.tile([-1, -0.75, -1, -0.75, -1, -0.75], int(np.ceil(len(d3)/6)))[:len(d3)]
-    markerline3, stemline3, baseline3 = ax.stem(d3, l3, linefmt="C3-", basefmt=" ", use_line_collection=True)
+    markerline3, stemline3, baseline3 = ax.stem(d3, l3, linefmt="C3-", basefmt=" ")
 
     # Format
     ax.get_xaxis().set_major_locator(mdates.MinuteLocator(interval=10))

@@ -26,6 +26,7 @@ bq query --nouse_legacy_sql --destination_table ${DATASET}.${TABLE} --replace --
       WHEN Account IN ("rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy", "rE3sV9KSWeSiaAapsZGcSDfiFRSshK8Bqj") THEN "Bittrex"
       WHEN Account IN ("rG6FZ31hDHN1K5Dkbma3PSB5uVCuVVRzfn", "rHZaDC6tsGN2JWGeXhjKL6664RNCq5hu4B", "raXLsnnJVaLMDixEoXHXe56WQXKczbD8ub", "rGfGdVYLDSbji5mqfMvdpx4c8JyyfqVFgf", "rfEu1Wnr7LxStoFx8DBdzgr8M16FBUbH3K", "rLSn6Z3T8uCxbcd1oxwfGQN1Fdn5CyGujK") THEN "Bitso"
       WHEN Account IN ("rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA") THEN "Coins.ph"
+      WHEN Account IN ("rLNaPoKeeBjZe2qs6x52yVPZpZ8td4dc6w", "rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg") THEN "Coinbase"
       ELSE NULL
     END AS xSource,
     CASE
@@ -33,6 +34,7 @@ bq query --nouse_legacy_sql --destination_table ${DATASET}.${TABLE} --replace --
       WHEN Destination IN ("rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy", "rE3sV9KSWeSiaAapsZGcSDfiFRSshK8Bqj") THEN "Bittrex"
       WHEN Destination IN ("rG6FZ31hDHN1K5Dkbma3PSB5uVCuVVRzfn", "rHZaDC6tsGN2JWGeXhjKL6664RNCq5hu4B", "raXLsnnJVaLMDixEoXHXe56WQXKczbD8ub", "rGfGdVYLDSbji5mqfMvdpx4c8JyyfqVFgf", "rfEu1Wnr7LxStoFx8DBdzgr8M16FBUbH3K", "rLSn6Z3T8uCxbcd1oxwfGQN1Fdn5CyGujK") THEN "Bitso"
       WHEN Destination IN ("rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA") THEN "Coins.ph"
+      WHEN Destination IN ("rLNaPoKeeBjZe2qs6x52yVPZpZ8td4dc6w", "rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg") THEN "Coinbase"
       ELSE NULL
     END AS xDestination
     FROM xrpledgerdata.fullhistory.transactions
