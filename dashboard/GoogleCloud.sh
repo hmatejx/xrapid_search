@@ -53,6 +53,7 @@ bq query --nouse_legacy_sql --destination_table ${DATASET}.${TABLE} --replace --
       WHEN Destination IN ("rDCgaaSBAWYfsxUYhCk1n26Na7x8PQGmkq") THEN "Poloniex"
       WHEN Destination IN ("rNEygqkMv4Vnj8M2eWnYT1TDnV1Sc1X5SN", "rGmmsmyspyPsuBT4L5pLvAqTjxYqaFq4U5") THEN "BTCTurk"
       WHEN Destination IN ("rKHZzzukdQeSateXEyiZrEbPr35qhskXp1") THEN "Unknown"
+      ELSE NULL
     END AS xDestination
     FROM xrpledgerdata.fullhistory.transactions
     WHERE
