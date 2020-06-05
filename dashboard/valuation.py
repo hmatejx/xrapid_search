@@ -20,8 +20,7 @@ data = pd.read_csv('InterExchange.csv')
 # interpolate
 data['Price'] = data.apply(lambda x: np.interp(x.Timestamp + 946684800, avg.TimeStamp, avg.Price), axis=1)
 data['AmountUSD'] = data.Amount * data.Price
-data['SourceTag'] = data['SourceTag'].astype(pd.Int64Dtype())
 data['DestinationTag'] = data['DestinationTag'].astype(pd.Int64Dtype())
 
 # save results
-data.to_csv('InterExchangeUSD.csv', index=False)
+data.to_csv('InterExchangeUSD.csv', index=False, float_format='%g')
