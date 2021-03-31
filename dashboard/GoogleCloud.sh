@@ -129,6 +129,9 @@ bq query --nouse_legacy_sql --destination_table ${DATASET}.${TABLE} --replace --
     # Wazirx
     SELECT "rwuAm7XdcP3SBwgJrVthCvCzU7kETJUUit" AS Address, "Wazirx" as Name UNION ALL
     SELECT "rJXcrnAS8XoBwjvd5VrShrLMY8buPuiuC5" AS Address, "Wazirx" as Name UNION ALL
+    # VALR
+    SELECT "rfrnxmLBiXHj38a2ZUDNzbks3y6yd3wJnV" AS Address, "VALR" as name UNION ALL
+    SELECT "rDseVXFK1SkWhFH65cqAxf3HmvHCF6b94t" AS Address, "VALR" as name UNION ALL
     # uknown
     SELECT "rKHZzzukdQeSateXEyiZrEbPr35qhskXp1" AS Address, "unknown" as Name
 ),
