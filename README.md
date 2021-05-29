@@ -75,6 +75,10 @@ Options:
 
 I'm [semi-regularly publishing](https://public.tableau.com/app/profile/hmatejx/viz/ODL_16196176638080/MainODLcorridorvolume) inter-exchange traffic data that follows the xRapid pattern.
 
+![](img/Em0W2DyW4AUmWIg.jpg)
+
+![](img/ElpvhyHXIAA7Uqa.jpg)
+
 If you would like to perform your own investigations, I have prepared a script called `GoogleCloud.sh` in the `dashboard` folder, which
 
 - executes the xRapid search query on Google BigQuery,
